@@ -57,7 +57,9 @@ Through this project, I have gained practical experience in:
 - **Scaling & Load Balancing:** Observing how Kubernetes abstracts networking to provide a single entry point for multiple instances.
 
 
-
+### 🖥️ Application Dashboard
+![Dashboard Screenshot](./screenshot.png) 
+*A minimalist system monitor dashboard that visualizes active node information.*
 
 
 
